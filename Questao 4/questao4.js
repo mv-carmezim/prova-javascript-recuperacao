@@ -1,0 +1,3 @@
+var vetorposicoes = ["Vai", "Dar", "Certo"];
+
+//SEU CODIGO AQUI...
